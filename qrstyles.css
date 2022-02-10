@@ -28,19 +28,18 @@ p {
 .QR_IMG {
   width: 90%;
   height: auto;
-  border-radius: 20px;
+  border-radius: 10px;
   margin: 5% 5% 0;
   position: relative;
-
 }
 
 .text {
   margin: 0 35px;
-
+  line-height: normal;
 }
 
 .title {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 700;
   color: Darkblue; /*fallback */
   color: hsl(218, 44%, 22%);
