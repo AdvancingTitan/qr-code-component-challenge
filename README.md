@@ -21,12 +21,12 @@ The same as the above section.
 
 ### Screenshot
 
-![](\images\Screenshot 2022-02-14 231535.png)
+![in folder](\images\Screenshot 2022-02-14 231535.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-image-message-center-display-with-classic-html-css-J50KS3Ui6)
+- Live Site URL: [GitHub](https://advancingtitan.github.io/qr-code-component-main/)
 
 ## My process
 Given the simplicity of this particular project, I was able to simply divide the end image into containers in my mind. The rest was a matter of playing around with positioning and ratios to achieve the desired look.
